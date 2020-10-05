@@ -1,8 +1,0 @@
-datasets/references/gencode_gtf.pickle filter=lfs diff=lfs merge=lfs -text
-all_loci_images/* filter=lfs diff=lfs merge=lfs -text
-all_loci_images/at_derm filter=lfs diff=lfs merge=lfs -text
-all_loci_images/melanoma filter=lfs diff=lfs merge=lfs -text
-all_loci_images/Ps filter=lfs diff=lfs merge=lfs -text
-all_loci_images/PsA filter=lfs diff=lfs merge=lfs -text
-all_loci_images/sclerosis filter=lfs diff=lfs merge=lfs -text
-all_loci_images/ filter=lfs diff=lfs merge=lfs -text

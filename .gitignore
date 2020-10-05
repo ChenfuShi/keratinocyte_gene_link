@@ -1,3 +1,5 @@
+datasets/references/gencode_gtf.pickle
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
