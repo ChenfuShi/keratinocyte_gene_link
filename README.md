@@ -62,4 +62,13 @@ The main script for linking genes to GWAS loci si located in *./scripts/Main_Lin
 
 You can set all your files and settings in the top of this script but the default uses all the data from *./datasets/* which are all the files needed to reproduce the results from the paper.
 
+## citation
+
+```
+Chenfu Shi, Helen Ray-Jones, James Ding, Kate Duffus, Yao Fu, Vasanthi Priyadarshini Gaddi, Oliver Gough, Jenny Hankinson, Paul Martin, Amanda McGovern, Annie Yarwood, Patrick Gaffney, Steve Eyre, Magnus Rattray, Richard B. Warren, Gisela Orozco
+Chromatin Looping Links Target Genes with Genetic Risk Loci for Dermatological Traits
+Journal of Investigative Dermatology, 2021, ISSN 0022-202X,
+https://doi.org/10.1016/j.jid.2021.01.015.
+(https://www.sciencedirect.com/science/article/pii/S0022202X2100141X)
+```
 
